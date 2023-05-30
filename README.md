@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently looking for a job opportunity
 
-- 🌱 I’m currently learning **MUI, NextJS, Typescript,**
+- 🏗️ I’m currently improving on **Typescript, MUI**
+
+- 🌱 I’m currently learning on **Next.js, Vite, Postgres**
 
 
 - 📫 How to reach me **nimam700@gmail.com**
@@ -52,6 +54,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#ts">
+        <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" height="48" alt="typescript" />
+      </a>
+      <br>TypeScript
     </td>
      <td align="center" width="96">
       <a href="https://reactjs.org/" rel="nofollow">
@@ -100,6 +108,12 @@
   </a>
         <br>Postman
     </td>
+        <td align="center" width="96">
+        <a href="https://socket.io/" rel="nofollow">
+    <img src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" alt="postman" width="48" height="48" data-canonical-src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" style="max-width: 100%;">
+  </a>
+        <br>Socket IO
+    </td>
   </tr>
    <tr>
       <td align="center" width="96">
@@ -137,6 +151,25 @@
         <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="48" height="48" alt="Git" />
       </a>
       <br>MUI
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">My Certification:</h3>
+
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+      <a href="https://www.credly.com/badges/21b63add-6fb6-4845-9077-f57b97085f36/public_url">
+        <img src="https://i.ibb.co/T1zN3Gm/comptia-security-ce-certification.png" width="48" height="48" alt="sec+" />
+      </a>
+      <br>Secuirty+
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.credly.com/badges/21b63add-6fb6-4845-9077-f57b97085f36/public_url">
+        <img src="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="48" height="48" alt="IBM security fundamental" />
+      </a>
+      <br>Cybersecurity Fundamentals
     </td>
   </tr>
 </table>
