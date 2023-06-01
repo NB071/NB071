@@ -155,7 +155,7 @@
   </tr>
 </table>
 
-<h3 align="left">My Certification:</h3>
+<h3 align="left">Certification:</h3>
 
 <table align="center">
   <tr>
