@@ -175,8 +175,10 @@
 </table>
 
 <h3 align="left">Coding Challenge:</h3>
-
+<a href="https://www.codewars.com/users/N3m0_">
 <img src="https://www.codewars.com/users/N3m0_/badges/micro" alt="Codewars N3m0_ badge">
+  </a>
+  
 ---
 
 <details>
