@@ -174,6 +174,9 @@
   </tr>
 </table>
 
+<h3 align="left">Coding Challenge:</h3>
+
+<img src="https://www.codewars.com/users/N3m0_/badges/micro" alt="Codewars N3m0_ badge">
 ---
 
 <details>
