@@ -8,7 +8,7 @@
 
 - 🏗️ I’m currently improving on **Typescript, MUI**
 
-- 🌱 I’m currently learning on **Vue, Vite, Postgres**
+- 🌱 I’m currently learning on **Backstage, Vite, Docker**
 
 
 - 📫 How to reach me **nimam700@gmail.com**
