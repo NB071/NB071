@@ -8,7 +8,7 @@
 
 - 🏗️ I’m currently improving on **Typescript, MUI**
 
-- 🌱 I’m currently learning on **Backstage, Docker**
+- 🌱 I’m currently learning on **Angular, Backstage, Docker**
 
 
 - 📫 How to reach me **nimam700@gmail.com**
