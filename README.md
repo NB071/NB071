@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently looking for a job opportunity
+- 🔭 I’m currently working on my portfolio website
 
 - 🏗️ I’m currently improving on **Typescript, MUI**
 
