@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently working on Lyrist
+- 🔭 I’m currently working on GenEx
 
-- 🏗️ I’m currently improving on **Typescript, MUI**
+- 🏗️ I’m currently improving on **Typescript, MUI, PowerShell**
 
 - 🌱 I’m currently learning on **Angular, Django, Docker**
 
