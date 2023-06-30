@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Nima</h1>
-<h3 align="center">I am a Full Stack Web Developer from Keswick, Canada.</h3>
+<h3 align="center">I am a Full Stack Web Developer and Cybersecurity Enthusiast from Keswick, Canada.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
@@ -148,28 +148,53 @@
     </td>
       <td align="center" width="96">
       <a href="#MUI" >
-        <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="48" height="48" alt="Git" />
+        <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="48" height="48" alt="MUI" />
       </a>
       <br>MUI
     </td>
+     <td align="center" width="96">
+      <a href="#Powershell" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="48" height="48" alt="PowerShell" />
+      </a>
+      <br>PowerShell
+    </td>
   </tr>
+   <tr>
+     <td align="center" width="96">
+      <a href="https://backstage.io/" rel="nofollow">
+    <img src="https://backstage.io/logo_assets/svg/Icon_White.svg" alt="Backstage" width="48" height="48" style="max-width: 100%;">
+  </a>
+      <br>Backstage
+     </td>
 </table>
 
 <h3 align="left">Certifications:</h3>
 
 <table align="center">
   <tr>
-      <td align="center" width="96">
+      <td align="center" width="200">
       <a href="https://www.credly.com/badges/21b63add-6fb6-4845-9077-f57b97085f36/public_url">
-        <img src="https://i.ibb.co/T1zN3Gm/comptia-security-ce-certification.png" width="48" height="48" alt="sec+" />
+        <img src="https://i.ibb.co/T1zN3Gm/comptia-security-ce-certification.png" width="48" height="48" alt="CompTIA Secuirty+" />
       </a>
-      <br>Secuirty+
+      <br>CompTIA Secuirty+
     </td>
-    <td align="center" width="96">
+    <td align="center" width="200">
       <a href="https://www.credly.com/badges/21b63add-6fb6-4845-9077-f57b97085f36/public_url">
         <img src="https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="48" height="48" alt="IBM security fundamental" />
       </a>
-      <br>Cybersecurity Fundamentals
+      <br>IBM Cybersecurity Fundamentals
+    </td>
+    <td align="center" width="200">
+      <a href="https://drive.google.com/file/d/1HcHErTFDT9PqXGUC_9D_peHvYhZu0W8G/view?usp=drive_link">
+        <img src="https://iclass.eccouncil.org/wp-content/uploads/2021/10/NDE-Product-Image.jpg" width="48" height="48" alt="EC-Council Network Defense Essentials" />
+      </a>
+      <br>EC-Council Network Defense Essentials
+    </td>
+    <td align="center" width="200">
+      <a href="https://verified.elearnsecurity.com/certificates/a6ce5477-0220-4b34-83e6-870e65da4686">
+        <img src="https://miro.medium.com/v2/resize:fit:309/0*hnA3ChGkiN5sZpqR.png" width="48" height="48" alt="IBM security fundamental" />
+      </a>
+      <br>eLearn Security Junior Penetration Tester
     </td>
   </tr>
 </table>
