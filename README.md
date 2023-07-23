@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently working on GenEx
+- 🔭 I’m currently working on a freelance projects
 
-- 🏗️ I’m currently improving on **Typescript, MUI, PowerShell**
+- 🏗️ I’m currently improving on **Typescript, Redux, PowerShell**
 
 - 🌱 I’m currently learning on **Angular, Django, Docker**
 
@@ -165,6 +165,12 @@
     <img src="https://backstage.io/logo_assets/svg/Icon_White.svg" alt="Backstage" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Backstage
+     </td>
+      <td align="center" width="96">
+      <a href="https://redux-toolkit.js.org/" rel="nofollow">
+    <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Backstage" width="48" height="48" style="max-width: 100%;">
+  </a>
+      <br>RTK
      </td>
 </table>
 
