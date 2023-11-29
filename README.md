@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently working at education and working on freelance project 
+- 🔭 I’m currently at education and working on freelance project 
 
 - 📫 How to reach me **nimam700@gmail.com**
 
