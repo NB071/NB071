@@ -40,7 +40,7 @@
     </td>
      <td align="center" width="96">
       <a href="https://tailwindcss.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
+    <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
   </a>
       <br>Tailwind
     </td>
@@ -99,7 +99,7 @@
     </td>
     <td align="center" width="96">
         <a href="https://postman.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="48" height="48" data-canonical-src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="max-width: 100%;">
   </a>
         <br>Postman
     </td>
@@ -113,13 +113,13 @@
    <tr>
       <td align="center" width="96">
       <a href="https://www.figma.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
+    <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="figma" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
   </a>
       <br>Figma
     </td>
      <td align="center" width="96">
       <a href="https://heroku.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;">
+    <img src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-1843x2048-hklv6w4m.png" alt="heroku" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Heroku
     </td>
@@ -131,7 +131,7 @@
     </td>
       <td align="center"  width="96">
       <a href="https://jestjs.io" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667" alt="jest" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="max-width: 100%;">
+    <img src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" alt="jest" width="48" height="48" data-canonical-src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" style="max-width: 100%;">
   </a>
       <br>Jest
     </td>
@@ -157,13 +157,13 @@
    <tr>
      <td align="center" width="96">
       <a href="https://backstage.io/" rel="nofollow">
-    <img src="https://backstage.io/logo_assets/svg/Icon_White.svg" alt="Backstage" width="48" height="48" style="max-width: 100%;">
+    <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Backstage" width="48" height="48" style="max-width: 100%;">
   </a>
-      <br>Backstage
+      <br>Remix
      </td>
       <td align="center" width="96">
       <a href="https://redux-toolkit.js.org/" rel="nofollow">
-    <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Backstage" width="48" height="48" style="max-width: 100%;">
+    <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Remix" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>RTK
      </td>
