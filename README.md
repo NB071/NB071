@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently at education and working on freelance project 
+- 🔭 I’m currently at University and working on freelance project 
 
 - 📫 How to reach me **nimam700@gmail.com**
 
@@ -104,11 +104,11 @@
   </a>
       <br>Prisma
     </td>
-     <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://www.linux.org/" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="linux" width="48" height="48" style="max-width: 100%;">
   </a>
-      <br>Linux
+      <br>Netlify
     </td>
     <td align="center" width="96">
         <a href="https://postman.com" rel="nofollow">
@@ -162,21 +162,7 @@
   </a>
       <br>Jest
     </td>
-     <td align="center" width="96">
-      <a href="#Powershell" >
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-      </a>
-      <br>PowerShell
-    </td>
-      <td align="center" width="96">
-      <a href="#java" >
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-  </tr>
-   <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="remix.run" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=remix" alt="Remix" width="48" height="48" style="max-width: 100%;">
   </a>
@@ -188,6 +174,27 @@
   </a>
       <br>Redux
      </td>
+  </tr>
+   <tr>
+       <td align="center" width="96">
+      <a href="#Powershell" >
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+      </a>
+      <br>PowerShell
+    </td>
+      <td align="center" width="96">
+      <a href="#java">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+       <td align="center" width="96">
+      <a href="https://www.linux.org/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" style="max-width: 100%;">
+  </a>
+      <br>Linux
+    </td>
+   </tr>
 </table>
 
 <h3 align="left">Certifications:</h3>
