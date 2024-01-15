@@ -10,162 +10,183 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nimab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="NB071" height="30" width="40" /></a>
-<a href="https://twitter.com/nimdev071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NB071" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/nima-bargestan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nima-bargestan" height="30" width="40" /></a>
-  <a href="https://discord.gg/\`N!ma\`#8936" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="\`N!ma\`#8936" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://dev.to/nimab" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="NB071" height="30" width="40" /></a>
+<a href="https://twitter.com/nimdev071" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="NB071" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/nima-bargestan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="in/nima-bargestan" height="30" width="40" /></a>
+  <a href="https://discord.gg/\`N!ma\`#8936" rel="nofollow"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="\`N!ma\`#8936" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
   <tr>
+  <!-- First Row - FrontEnd -->
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Html5" />
       </a>
-      <br>Html5
+      <br>Html
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="Css3" />
       </a>
-      <br>CSS3
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="https://sass-lang.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=scss" alt="sass" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>SCSS
     </td>
      <td align="center" width="96">
       <a href="https://tailwindcss.com/" rel="nofollow">
-    <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Tailwind
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
+     <td align="center" width="96">
+      <a href="https://jquery.com/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="48" height="48" style="max-width: 100%;">
+  </a>
+      <br>Jquery
+    </td>
     <td align="center" width="96">
       <a href="#ts">
-        <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" height="48" alt="typescript" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
      <td align="center" width="96">
       <a href="https://reactjs.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>React JS
     </td>
-     
   </tr>
 
   <tr>
+  <!-- Second Row - BackEnd -->
      <td align="center" width="96">
       <a href="https://nodejs.org" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Node
     </td>
       <td align="center" width="96">
       <a href="https://expressjs.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Express
     </td>
       <td align="center" width="96">
       <a href="#mysql">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
         <a href="#knex">
-            <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png" width="48" height="48"
+            <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png"  width="48" height="48"
                 alt="knex" />
         </a>
         <br>Knex
     </td>
      <td align="center" width="96">
+      <a href="https://www.prisma.org/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="48" height="48" style="max-width: 100%;">
+  </a>
+      <br>Prisma
+    </td>
+     <td align="center" width="96">
       <a href="https://www.linux.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Linux
     </td>
     <td align="center" width="96">
         <a href="https://postman.com" rel="nofollow">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="48" height="48" data-canonical-src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="48" height="48" style="max-width: 100%;">
   </a>
         <br>Postman
     </td>
         <td align="center" width="96">
         <a href="https://socket.io/" rel="nofollow">
-    <img src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" alt="postman" width="48" height="48" data-canonical-src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" style="max-width: 100%;">
+    <img src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" alt="postman" width="48" height="48" style="max-width: 100%;">
   </a>
         <br>Socket IO
     </td>
   </tr>
+
    <tr>
+    <!-- Third Row - UI -->
       <td align="center" width="96">
       <a href="https://www.figma.com/" rel="nofollow">
-    <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="figma" width="48" height="48" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Figma
     </td>
      <td align="center" width="96">
+      <a href="https://mui.com/" >
+        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="MUI" />
+      </a>
+      <br>MUI
+    </td>
+     <td align="center" width="96">
+      <a href="https://mantine.dev/" >
+        <img src="https://static-00.iconduck.com/assets.00/brand-mantine-icon-512x512-jmzleidi.png" width="48" height="48" alt="Mantine" />
+      </a>
+      <br>Mantine
+    </td>
+     <td align="center" width="96">
       <a href="https://heroku.com" rel="nofollow">
-    <img src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-1843x2048-hklv6w4m.png" alt="heroku" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Heroku
     </td>
       <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96">
       <a href="https://jestjs.io" rel="nofollow">
-    <img src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" alt="jest" width="48" height="48" data-canonical-src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="48" height="48" data-canonical-src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png" style="max-width: 100%;">
   </a>
       <br>Jest
     </td>
-      <td align="center" width="96">
-      <a href="https://www.python.org" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" style="max-width: 100%;">
-  </a>
-      <br>Python
-    </td>
-      <td align="center" width="96">
-      <a href="#MUI" >
-        <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="48" height="48" alt="MUI" />
-      </a>
-      <br>MUI
-    </td>
      <td align="center" width="96">
       <a href="#Powershell" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="48" height="48" alt="PowerShell" />
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
       </a>
       <br>PowerShell
+    </td>
+      <td align="center" width="96">
+      <a href="#java" >
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
     </td>
   </tr>
    <tr>
      <td align="center" width="96">
-      <a href="https://backstage.io/" rel="nofollow">
-    <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Backstage" width="48" height="48" style="max-width: 100%;">
+      <a href="remix.run" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=remix" alt="Remix" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Remix
      </td>
       <td align="center" width="96">
       <a href="https://redux-toolkit.js.org/" rel="nofollow">
-    <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Remix" width="48" height="48" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Remix" width="48" height="48" style="max-width: 100%;">
   </a>
-      <br>RTK
+      <br>Redux
      </td>
 </table>
 
