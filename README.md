@@ -13,7 +13,7 @@
 <a href="https://dev.to/nimab" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="NB071" height="30" width="40" /></a>
 <a href="https://twitter.com/nimdev071" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="NB071" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/nima-bargestan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="in/nima-bargestan" height="30" width="40" /></a>
-  <a href="https://discord.gg/\`N!ma\`#8936" rel="nofollow"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="\`N!ma\`#8936" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://discord.gg/\`N!ma\`#8936" rel="nofollow"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="\`N!ma\`#8936" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -163,7 +163,7 @@
       <br>Jest
     </td>
     <td align="center" width="96">
-      <a href="remix.run" rel="nofollow">
+      <a href="https://www.remix.run" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=remix" alt="Remix" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Remix
