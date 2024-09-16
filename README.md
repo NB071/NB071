@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **nimam700@gmail.com**
 
+<input name="mox"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nimab" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="NB071" height="30" width="40" /></a>
