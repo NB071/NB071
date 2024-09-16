@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nimam700@gmail.com**
 
-<input name="mox"/>
+<input value="1000" size="200px" name="mox"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
