@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently at University and working on freelance project 
+- 🔭 I’m currently at University and working on my cybersecurity projects 
 
 - 📫 How to reach me **nimam700@gmail.com**
 
@@ -93,7 +93,7 @@
     </td>
     <td align="center" width="96">
         <a href="#knex">
-            <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png"  width="48" height="48"
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Knex-Connect-White.svg"  width="48" height="48"
                 alt="knex" />
         </a>
         <br>Knex
@@ -118,7 +118,7 @@
     </td>
         <td align="center" width="96">
         <a href="https://socket.io/" rel="nofollow">
-    <img src="https://seeklogo.com/images/S/socketio-logo-B8A7F486CD-seeklogo.com.png" alt="postman" width="48" height="48" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="postman" width="48" height="48" style="max-width: 100%;">
   </a>
         <br>Socket IO
     </td>
@@ -140,7 +140,7 @@
     </td>
      <td align="center" width="96">
       <a href="https://mantine.dev/" >
-        <img src="https://static-00.iconduck.com/assets.00/brand-mantine-icon-512x512-jmzleidi.png" width="48" height="48" alt="Mantine" />
+        <img src="https://raw.githubusercontent.com/github/explore/4962335d2c35e1ff44bd32182206a65cc567c55a/topics/mantine/mantine.png" width="48" height="48" alt="Mantine" />
       </a>
       <br>Mantine
     </td>
@@ -176,7 +176,13 @@
      </td>
   </tr>
    <tr>
-       <td align="center" width="96">
+     <td align="center" width="96">
+      <a href="#nextjs" >
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJs" />
+      </a>
+      <br>NextJS
+    </td>  
+     <td align="center" width="96">
       <a href="#Powershell" >
         <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
       </a>
@@ -188,11 +194,23 @@
       </a>
       <br>Java
     </td>
+     <td align="center" width="96">
+      <a href="#Bash">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
        <td align="center" width="96">
       <a href="https://www.linux.org/" rel="nofollow">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="48" height="48" style="max-width: 100%;">
   </a>
       <br>Linux
+    </td>
+     <td align="center" width="96">
+      <a href="https://aws.amazon.com/" rel="nofollow">
+    <img src="https://svgmix.com/uploads/skillicons/29026e-aws-dark.svg" alt="aws" width="48" height="48" style="max-width: 100%;">
+  </a>
+      <br>AWS
     </td>
    </tr>
 </table>
@@ -201,9 +219,15 @@
 
 <table align="center">
   <tr>
-      <td align="center" width="200">
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/e9cd1627-ea3f-4d05-922f-b418b5aa3d35/public_url">
+        <img src="https://images.credly.com/size/80x80/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" width="48" height="48" alt="CompTIA Secuirty+" />
+      </a>
+      <br>CompTIA CySA+
+    </td>  
+    <td align="center" width="200">
       <a href="https://www.credly.com/badges/21b63add-6fb6-4845-9077-f57b97085f36/public_url">
-        <img src="https://i.ibb.co/T1zN3Gm/comptia-security-ce-certification.png" width="48" height="48" alt="CompTIA Secuirty+" />
+        <img src="https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="48" height="48" alt="CompTIA Secuirty+" />
       </a>
       <br>CompTIA Secuirty+
     </td>
@@ -227,6 +251,11 @@
     </td>
   </tr>
 </table>
+
+<h3 align="left">Cybersecurity Platform(s) [CTF]:</h3>
+  <b>Top 1% -- TryHackMe</b>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nima.b.png" alt="Your Image Badge" />
+
 
 <h3 align="left">Coding Challenge:</h3>
 <a href="https://www.codewars.com/users/N3m0_">
