@@ -1,12 +1,17 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Nima</h1>
-<h3 align="center">I am a Full Stack Web Developer and Cybersecurity Enthusiast</h3>
+<h4 align="center">I am a Cybersecurity Specialist focused on defense, digital forensics, and penetration testing. My software engineering background strengthens my ability to develop secure solutions, automate analysis, and better understand how systems can be exploited or protected.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NB071&label=Profile%20views&color=0e75b6&style=flat" alt="NB071" /> </p>
 
-- 🔭 I’m currently at University and working on my cybersecurity projects 
+🎯 **Primary Focus**: Threat detection, incident response, and proactive security measures
 
-- 📫 How to reach me **nimam700@gmail.com**
+🛠 **Supporting Skillset**: Applying SWE expertise to enhance cyber tools, workflows, and investigations
+
+📚 Currently pursuing a degree in **Computer Security** at York University while building hands-on cybersecurity projects
+
+
+📫 Contact: **nimam700@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
